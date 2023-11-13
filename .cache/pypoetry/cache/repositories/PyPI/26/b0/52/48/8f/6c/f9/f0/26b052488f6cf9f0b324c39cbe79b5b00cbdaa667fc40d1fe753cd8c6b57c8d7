@@ -1,0 +1,1 @@
+9999999999{"name": "data", "version": "0.4", "summary": "Work with unicode/non-unicode data from files or strings uniformly.", "requires_dist": ["six", "decorator", "funcsigs"], "requires_python": null, "files": [{"file": "data-0.4.tar.gz", "hash": "sha256:2726a65da1af31e2345b6bba81ae4cee87dddf17f7c62f5c63ba7327a8480667"}], "yanked": false, "_cache_version": "2.0.0"}

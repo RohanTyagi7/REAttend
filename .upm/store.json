@@ -1,0 +1,1 @@
+{"version":2,"languages":{"python-python3-poetry":{"specfileHash":"3ae22fdf2ea6c35e95efba5464f94df8","lockfileHash":"0a8c515d228d46a4942d5a2659b1d85f","guessedImports":["geocoder","data","flask","pyqrcode","pypng"],"guessedImportsHash":"953961ab0fb55a0cdde4929ef155b4a8"}}}
